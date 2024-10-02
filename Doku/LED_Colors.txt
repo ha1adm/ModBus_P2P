@@ -1,0 +1,8 @@
+Modbus Read done without Error: DarkGreen
+Modbus Read Error: Crimson
+Radio 1st TX: Aqua
+Radio wait for acknowladge: Gold
+Radio message lost: FireBrick
+Radio TX Acknowladged DarkBlue
+
+
